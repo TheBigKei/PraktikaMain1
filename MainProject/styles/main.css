@@ -1,0 +1,14 @@
+*{
+    margin: 0;  /*Убираем изначальные отступы у сайта*/
+}
+
+body, html{
+    background-color: #ebe9d8;  /*Задний фон всего сайта*/
+    color: #555449;
+    height: 100%;
+    min-width: 20%;
+}
+
+#h1_content{
+    text-align: center; /*Центрируем текст*/
+}
