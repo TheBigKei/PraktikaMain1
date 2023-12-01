@@ -5,7 +5,7 @@
 
 footer{     /*footer контейнер*/
     height: 142px;    /*Высота footer контейнера*/
-    background: #cdc9ab;    /*Цвет заднего фона*/
+    background: #cdcddb;    /*Цвет заднего фона*/
     display: flex;    /*Объявляет footer как flex объект для создания столбца из контейнеров*/
     align-items: center;    /*Центрируем главный контейнер в footer по поперечной оси*/
     justify-content: center;    /*Центрируем главный контейнер в footer по основной оси*/
@@ -17,7 +17,7 @@ footer{     /*footer контейнер*/
 }
 
 #a_foot{    /*Ссылки внутри контейнеров p*/
-    color: #555449;    /*Цвет ссылки*/
+    color: #47474b;    /*Цвет ссылки*/
 }
 
 .image_conteiner{    /*Контейнер для картинок*/
